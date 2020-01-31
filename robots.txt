@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mohjeixax.crabfunding.com/sitemap.xml
